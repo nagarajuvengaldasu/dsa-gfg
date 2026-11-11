@@ -1,0 +1,10 @@
+let str = "Hello World";
+console.log(str);
+console.log(str.length);
+console.log(str[0]);
+console.log(str.charCodeAt(0));
+console.log(str.slice(0, 5));
+console.log(str.substring(0, 5));
+console.log(str.replace("Hello", "Hi"));
+console.log(str.replaceAll("Hello", "oj"));
+console.log(str.replaceAll("Hello", "i am ok"));
